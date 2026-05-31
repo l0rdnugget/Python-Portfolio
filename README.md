@@ -14,7 +14,8 @@ A program that organizes a travel itinerary across three destinations. Prompts t
 A program that suggests outfits based on current weather conditions. Takes temperature, weather type, and wind speed as input and recommends what to wear.
 
 
-## Concepts used:
+
+## Concepts Used:
 - Variables and data types
 - User input and output
 - Basic arithmetic
